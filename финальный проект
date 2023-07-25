@@ -83,5 +83,3 @@ int main()
     IsKPeriodic(K, txt);
     return 0;
 }
- 31 changes: 31 additions & 0 deletions31  
-Modul 12.7
